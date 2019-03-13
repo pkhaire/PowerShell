@@ -8,6 +8,8 @@ Microsoft PowerShell. Download PowerShell from PowerShell site -
 
 * [PowerShell] (https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-6)
 
+* [PowerShell-for-Mac] (https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-6)
+
 ### Files
 * PowerShell-Basics.ps1   --- VMware vCenter Management
 
